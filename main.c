@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include "main.h"
 
-#define GAME_TIME 10
+#define GAME_TIME 60
 #define MAX_QUESTION_DIFFICULTY 12
 enum operator_difficultly {
     ADDITION = 1, SUBTRACTION = 1, MULTIPLICATION = 2, DIVISION = 3
